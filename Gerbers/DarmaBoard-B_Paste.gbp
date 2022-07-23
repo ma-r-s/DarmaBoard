@@ -1,0 +1,24 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0)*
+G04 #@! TF.CreationDate,2022-05-03T02:07:06-05:00*
+G04 #@! TF.ProjectId,Materiales ESP32,4d617465-7269-4616-9c65-732045535033,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Paste,Bot*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.0)) date 2022-05-03 02:07:06*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10O,2.000000X1.200000*%
+%ADD11O,1.500000X1.200000*%
+G04 APERTURE END LIST*
+D10*
+X174162500Y-108930000D03*
+D11*
+X169952500Y-108930000D03*
+X169952500Y-117570000D03*
+D10*
+X174162500Y-117570000D03*
+M02*
